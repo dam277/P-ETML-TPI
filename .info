@@ -1,0 +1,7 @@
+NAME=ETML TPI
+TYPE=project
+LANGUAGES=python,javascript
+LIBRARIES=null
+FRAMEWORKS=flask,react
+TOOLS=docker
+DESCRIPTION=null
